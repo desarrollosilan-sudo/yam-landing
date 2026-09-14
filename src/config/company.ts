@@ -15,7 +15,7 @@ export const COMPANY_INFO: CompanyInfoData = {
   rut: "77.784.467-9",
   address: "Av. Raúl Labbé 12613, oficina 231, piso 2, Lo Barnechea, Región Metropolitana, Chile",
   phone: process.env.NEXT_PUBLIC_COMPANY_PHONE || "+56 9 7879 0862",
-  email: process.env.NEXT_PUBLIC_COMPANY_EMAIL || "contacto@yamspa.cl",
+  email: process.env.NEXT_PUBLIC_COMPANY_EMAIL || "informacionesyam@gmail.com",
   description: "Y.A.M SpA presta servicios de reposición y apoyo en sala para proveedores del retail en Santiago de Chile.",
   year: 2026,
 };
